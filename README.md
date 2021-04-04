@@ -1,9 +1,9 @@
 # YOLOv4
 YOLOv4 darknet
 
-由于预训练模型权重文件过大，请自行下载yolov4.weights到主目录Improved-YOLOv4下，下载yolov4.conv.137到data目录下
-yolov4.weights链接: https://pan.baidu.com/s/1gHljFNacH4n9xmWFOART6Q  密码: 30dk
-yolov4.conv.137链接: https://pan.baidu.com/s/1HfwVztoAJMUhw_XQj09k2w  密码: tpnl
+由于预训练模型权重文件过大，请自行下载yolov4.weights到主目录Improved-YOLOv4下，下载yolov4.conv.137到data目录下  
+yolov4.weights链接: https://pan.baidu.com/s/1gHljFNacH4n9xmWFOART6Q  密码: 30dk  
+yolov4.conv.137链接: https://pan.baidu.com/s/1HfwVztoAJMUhw_XQj09k2w  密码: tpnl  
 
 ### 环境  
 Ubuntu 16.04  
@@ -20,7 +20,7 @@ OPENCV=1
 
 ### data目录为重要目录  
 文件            | 用途
--------------- | ------
+--------------  | ------
 obj.data       ｜各参数路径  
 obj.names      ｜类别名称  
 backup         ｜模型生成的权重文件  
